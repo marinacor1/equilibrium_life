@@ -1,0 +1,14 @@
+.landing-page {
+  padding-top: 200px;
+  text-align: center;
+  color: #474747;
+  font-size: 350%;
+  font-family: 'Josefin Sans', Arial, sans-serif;
+  text-shadow: 1px #899bae;
+  background: url("https://images.unsplash.com/photo-1442548364206-8432f56d7595?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5a0c3866b11e52ee335bd3ef6dc6f458
+") no-repeat center;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
