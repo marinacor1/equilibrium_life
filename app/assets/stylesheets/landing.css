@@ -1,13 +1,26 @@
 .landing-page {
-  padding-top: 200px;
-  text-align: center;
-  color: #474747;
-  font-size: 250%;
-  font-family: 'Josefin Sans', Arial, sans-serif;
-  text-shadow: 1px #899bae;
+  /*padding-top: 200px;*/
   background: url('ocean-float.jpeg') no-repeat center;
   background-position: center center;
   background-size: cover;
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;*/
   min-height: 100vh;
+}
+
+.quote{
+  margin-top: 500px;
+  font-family: 'Josefin Sans', Arial, sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 1px #899bae;
+  font: 300%;
+}
+
+.author{
+  margin-top: 600px;
+  text-align: center;
+  color: white;
+  font-family: 'Josefin Sans', Arial, sans-serif;
+  text-shadow: 1px #899bae;
+  font: 300%;
 }
