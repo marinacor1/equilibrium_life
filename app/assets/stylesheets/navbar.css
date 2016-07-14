@@ -31,6 +31,10 @@ a:visited {
   font-family: 'Tienne', Arial, sans-serif;
 }
 
+.li {
+  /*give height to these divs*/
+}
+
 .nav > .greeting {
   position: absolute;
   top: 0px;
