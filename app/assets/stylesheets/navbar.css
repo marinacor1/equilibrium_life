@@ -2,8 +2,26 @@
   margin-bottom: 0px !important;
   background-color: #a7aab0;
   font-size: 150%;
+  /*height: 300px*/
+  /*make image smaller*/
+  /*style a tags*/
 }
 
+a:link {
+  color: #696969
+}
+
+a:active {
+  color: #696969
+}
+
+a:hover {
+  color: #696969
+}
+
+a:visited {
+  color: #696969
+}
 .nav-title{
   margin-left: 5px;
   margin-top: 78px;
